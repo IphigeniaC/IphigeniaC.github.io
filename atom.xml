@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-18T15:48:34.413Z</updated>
+  <updated>2019-06-18T17:07:29.347Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,47 +17,194 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello world</title>
-    <link href="http://yoursite.com/2019/06/18/hello-world-1/"/>
-    <id>http://yoursite.com/2019/06/18/hello-world-1/</id>
-    <published>2019-06-18T15:46:22.000Z</published>
-    <updated>2019-06-18T15:48:34.413Z</updated>
+    <title>十年（四）</title>
+    <link href="http://yoursite.com/2019/06/18/%E5%8D%81%E5%B9%B4%EF%BC%88%E5%9B%9B%EF%BC%89/"/>
+    <id>http://yoursite.com/2019/06/18/十年（四）/</id>
+    <published>2019-06-18T17:14:06.000Z</published>
+    <updated>2019-06-18T17:07:29.347Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Duang！&lt;/p&gt;
-
-        
-      
+      袖剑客同楼上醉，烂柯人看洞中棋。
     
     </summary>
     
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="十年" scheme="http://yoursite.com/tags/%E5%8D%81%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/06/18/hello-world/"/>
-    <id>http://yoursite.com/2019/06/18/hello-world/</id>
-    <published>2019-06-18T13:30:54.685Z</published>
-    <updated>2019-06-18T13:30:54.686Z</updated>
+    <title>十年（三）</title>
+    <link href="http://yoursite.com/2019/06/18/%E5%8D%81%E5%B9%B4%EF%BC%88%E4%B8%89%EF%BC%89/"/>
+    <id>http://yoursite.com/2019/06/18/十年（三）/</id>
+    <published>2019-06-18T17:13:06.000Z</published>
+    <updated>2019-06-18T17:07:22.927Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      十年生死两茫茫。
     
     </summary>
     
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="十年" scheme="http://yoursite.com/tags/%E5%8D%81%E5%B9%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十年（二）</title>
+    <link href="http://yoursite.com/2019/06/18/%E5%8D%81%E5%B9%B4%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
+    <id>http://yoursite.com/2019/06/18/十年（二）/</id>
+    <published>2019-06-18T17:12:06.000Z</published>
+    <updated>2019-06-18T17:07:17.568Z</updated>
+    
+    <summary type="html">
+    
+      红泪偷垂，满眼春风百事非。
+    
+    </summary>
+    
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="十年" scheme="http://yoursite.com/tags/%E5%8D%81%E5%B9%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十年（一）</title>
+    <link href="http://yoursite.com/2019/06/18/%E5%8D%81%E5%B9%B4%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://yoursite.com/2019/06/18/十年（一）/</id>
+    <published>2019-06-18T17:11:06.000Z</published>
+    <updated>2019-06-18T17:07:09.183Z</updated>
+    
+    <summary type="html">
+    
+      手携稚子夜归院，月冷空房不见人。。
+    
+    </summary>
+    
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="十年" scheme="http://yoursite.com/tags/%E5%8D%81%E5%B9%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>春潮带雨</title>
+    <link href="http://yoursite.com/2019/06/18/%E6%98%A5%E6%BD%AE%E5%B8%A6%E9%9B%A8/"/>
+    <id>http://yoursite.com/2019/06/18/春潮带雨/</id>
+    <published>2019-06-18T17:05:06.000Z</published>
+    <updated>2019-06-18T17:01:56.730Z</updated>
+    
+    <summary type="html">
+    
+      一篇没有剧情的肉文。
+    
+    </summary>
+    
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="短篇" scheme="http://yoursite.com/tags/%E7%9F%AD%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>睡前故事</title>
+    <link href="http://yoursite.com/2019/06/18/%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B/"/>
+    <id>http://yoursite.com/2019/06/18/睡前故事/</id>
+    <published>2019-06-18T16:58:06.000Z</published>
+    <updated>2019-06-18T17:00:05.469Z</updated>
+    
+    <summary type="html">
+    
+      “那永恒长眠的并非亡者，在诡秘的万古中即便死亡本身亦会消逝。” ——《克苏鲁的呼唤》
+    
+    </summary>
+    
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="短篇" scheme="http://yoursite.com/tags/%E7%9F%AD%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>血与刀</title>
+    <link href="http://yoursite.com/2019/06/18/%E8%A1%80%E4%B8%8E%E5%88%80/"/>
+    <id>http://yoursite.com/2019/06/18/血与刀/</id>
+    <published>2019-06-18T16:30:06.000Z</published>
+    <updated>2019-06-18T17:20:23.673Z</updated>
+    
+    <summary type="html">
+    
+      非常黑历史的连载。
+    
+    </summary>
+    
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="血与刀" scheme="http://yoursite.com/tags/%E8%A1%80%E4%B8%8E%E5%88%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>四时令</title>
+    <link href="http://yoursite.com/2019/06/18/%E5%9B%9B%E6%97%B6%E4%BB%A4/"/>
+    <id>http://yoursite.com/2019/06/18/四时令/</id>
+    <published>2019-06-18T16:26:06.000Z</published>
+    <updated>2019-06-18T16:54:18.739Z</updated>
+    
+    <summary type="html">
+    
+      一篇没有剧情的纯甜文。
+    
+    </summary>
+    
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="短篇" scheme="http://yoursite.com/tags/%E7%9F%AD%E7%AF%87/"/>
     
   </entry>
   
