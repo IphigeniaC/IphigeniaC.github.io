@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-21T20:00:26.167Z</updated>
+  <updated>2020-03-08T08:39:32.177Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>缠</title>
+    <link href="http://yoursite.com/2019/06/28/%E7%BC%A0/"/>
+    <id>http://yoursite.com/2019/06/28/缠/</id>
+    <published>2019-06-28T17:25:06.000Z</published>
+    <updated>2020-03-08T08:39:32.177Z</updated>
+    
+    <summary type="html">
+    
+      一篇好像也不算有剧情的肉文。
+    
+    </summary>
+    
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="短篇" scheme="http://yoursite.com/tags/%E7%9F%AD%E7%AF%87/"/>
+    
+  </entry>
   
   <entry>
     <title>十年（六）</title>
@@ -161,6 +185,30 @@
   </entry>
   
   <entry>
+    <title>四时令</title>
+    <link href="http://yoursite.com/2019/06/18/%E5%9B%9B%E6%97%B6%E4%BB%A4/"/>
+    <id>http://yoursite.com/2019/06/18/四时令/</id>
+    <published>2019-06-18T17:06:06.000Z</published>
+    <updated>2020-03-08T08:34:17.427Z</updated>
+    
+    <summary type="html">
+    
+      一篇没有剧情的甜文
+    
+    </summary>
+    
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="短篇" scheme="http://yoursite.com/tags/%E7%9F%AD%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
     <title>春潮带雨</title>
     <link href="http://yoursite.com/2019/06/18/%E6%98%A5%E6%BD%AE%E5%B8%A6%E9%9B%A8/"/>
     <id>http://yoursite.com/2019/06/18/春潮带雨/</id>
@@ -233,15 +281,15 @@
   </entry>
   
   <entry>
-    <title>四时令</title>
-    <link href="http://yoursite.com/2019/06/18/%E5%9B%9B%E6%97%B6%E4%BB%A4/"/>
-    <id>http://yoursite.com/2019/06/18/四时令/</id>
-    <published>2019-06-18T16:26:06.000Z</published>
-    <updated>2019-06-18T16:54:18.739Z</updated>
+    <title>十年（八）</title>
+    <link href="http://yoursite.com/2019/03/08/%E5%8D%81%E5%B9%B4%EF%BC%88%E5%85%AB%EF%BC%89/"/>
+    <id>http://yoursite.com/2019/03/08/十年（八）/</id>
+    <published>2019-03-08T09:26:50.000Z</published>
+    <updated>2020-03-08T08:33:46.585Z</updated>
     
     <summary type="html">
     
-      一篇没有剧情的纯甜文。
+      胸中甓积千般事，到得相逢一语无。
     
     </summary>
     
@@ -252,7 +300,31 @@
     
       <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
     
-      <category term="短篇" scheme="http://yoursite.com/tags/%E7%9F%AD%E7%AF%87/"/>
+      <category term="十年" scheme="http://yoursite.com/tags/%E5%8D%81%E5%B9%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十年（七）</title>
+    <link href="http://yoursite.com/2019/03/08/%E5%8D%81%E5%B9%B4%EF%BC%88%E4%B8%83%EF%BC%89/"/>
+    <id>http://yoursite.com/2019/03/08/十年（七）/</id>
+    <published>2019-03-08T09:24:39.000Z</published>
+    <updated>2020-03-08T08:27:41.837Z</updated>
+    
+    <summary type="html">
+    
+      今宵剩把银釭照，犹恐相逢是梦中。
+    
+    </summary>
+    
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="十年" scheme="http://yoursite.com/tags/%E5%8D%81%E5%B9%B4/"/>
     
   </entry>
   
