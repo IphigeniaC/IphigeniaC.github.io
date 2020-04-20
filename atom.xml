@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-09T01:50:38.383Z</updated>
+  <updated>2020-04-20T02:56:22.386Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>十年（九）</title>
+    <link href="http://yoursite.com/2020/04/19/%E5%8D%81%E5%B9%B4%EF%BC%88%E4%B9%9D%EF%BC%89/"/>
+    <id>http://yoursite.com/2020/04/19/十年（九）/</id>
+    <published>2020-04-20T02:56:50.000Z</published>
+    <updated>2020-04-20T02:56:22.386Z</updated>
+    
+    <summary type="html">
+    
+      红豆恨，归谁促。青鸾梦，惊难续。
+    
+    </summary>
+    
+      <category term="同人" scheme="http://yoursite.com/categories/%E5%90%8C%E4%BA%BA/"/>
+    
+    
+      <category term="只狼" scheme="http://yoursite.com/tags/%E5%8F%AA%E7%8B%BC/"/>
+    
+      <category term="狼主" scheme="http://yoursite.com/tags/%E7%8B%BC%E4%B8%BB/"/>
+    
+      <category term="十年" scheme="http://yoursite.com/tags/%E5%8D%81%E5%B9%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>十年（八）</title>
